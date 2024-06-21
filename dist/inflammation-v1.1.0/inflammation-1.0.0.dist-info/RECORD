@@ -1,0 +1,8 @@
+inflammation/README.md,sha256=__27PY24jF0qIk22pnAuDj5M1lP_x_VpwbTpvaQj3SA,964
+inflammation/__init__.py,sha256=sB3D60ULiwjsYC5d4NjvSkmcAb-SI3igDBBQRFaXjCU,71
+inflammation/compute_data.py,sha256=bCq5h-dqcfaHi_coxo4OOL3iDnL-v9pn9wT_ZQp5a4I,984
+inflammation/models.py,sha256=SGaFY8OIzFqir-RT6JLQ_H20YRSiWB9-OTnFCR9sOT0,1652
+inflammation/views.py,sha256=D7B8J9JjkA4UN1_2yHURslhQGzs7kVkUJOd0YJQXoBY,649
+inflammation-1.0.0.dist-info/METADATA,sha256=U3VNEND10cG_GNFH8Sov5fU8VsWm8CDAB1_n2lbm1CE,532
+inflammation-1.0.0.dist-info/WHEEL,sha256=sP946D7jFCHeNz5Iq4fL4Lu-PrWrFsgfLXbbkciIZwg,88
+inflammation-1.0.0.dist-info/RECORD,,
